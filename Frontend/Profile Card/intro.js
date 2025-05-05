@@ -226,8 +226,28 @@ console.log("05th, May, 2025")
 // console.log(brushTeeth("Abhishek"));
 
 
-// const greetMyName = (nameMy) => `Hello ! ${nameMy}`;
-// console.log(greetMyName("Abhi"));
+const greetMyName = (nameMy) => `Hello ! ${nameMy}`;
+console.log(greetMyName("Abhi"));
+
+// Print numbers from 1 to 5 using a for loop.
+
+for (let i =1; i <= 5; i++) {
+    console.log(i)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
